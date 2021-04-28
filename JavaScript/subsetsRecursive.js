@@ -1,3 +1,6 @@
+/* Given an integer array nums of unique elements, return all possible subsets (the power set).
+The solution set must not contain duplicate subsets. Return the solution in any order. */
+
 /**
  * Creates an array of subsets given a set.
  * @param {array} set An array of non repeating integers.
